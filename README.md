@@ -11,7 +11,7 @@ Data source: FitBit Fitness Tracker Data (CC0: Public Domain, via Kaggle).
 Using **R** to clean the data and find correlations between daily steps and sleep quality.
 
 ## 4. Share (Visualizations)
-![Daily Steps vs Sleep Quality](grafico_passos.png)
+![Daily Steps vs Sleep Quality](plot_passos_sono_1.png)
 
 ## 5. Act (Insights)
 * **Insight 1:** Users with higher activity levels tend to have more consistent sleep patterns.
